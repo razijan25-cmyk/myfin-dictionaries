@@ -1,23 +1,9 @@
 {
-  "income": [
-    "salary", "bonus", "paycheck", "freelance", "allowance", "sold", "profit", "wage", "tips"
-  ],
-  "food": [
-    "groceries", "food", "lunch", "dinner", "breakfast", "milk", "bread", "eggs", "meat", "chicken", "coffee", "restaurant", "pizza", "water", "snacks"
-  ],
-  "transport": [
-    "petrol", "gas", "uber", "taxi", "bus", "train", "flight", "fuel", "parking", "toll", "metro", "ticket"
-  ],
-  "bills": [
-    "electricity", "water bill", "internet", "wifi", "rent", "gas bill", "phone", "mobile", "utility", "trash"
-  ],
-  "shopping": [
-    "clothes", "shoes", "shirt", "pants", "amazon", "mall", "electronics", "jacket", "dress", "bag"
-  ],
-  "entertainment": [
-    "movie", "cinema", "netflix", "concert", "game", "party", "fun", "spotify", "tickets"
-  ],
-  "health": [
-    "doctor", "medicine", "pharmacy", "clinic", "hospital", "pills", "gym", "dentist", "therapy"
-  ]
+  "Income": ["salary", "bonus", "paycheck", "freelance", "allowance", "sold", "profit", "wage", "tips"],
+  "Groceries": ["groceries", "food", "lunch", "dinner", "breakfast", "milk", "bread", "eggs", "meat", "chicken", "coffee", "restaurant", "pizza", "water", "snacks"],
+  "Auto": ["petrol", "gas", "uber", "taxi", "bus", "train", "flight", "fuel", "parking", "toll", "metro", "ticket"],
+  "Utilities": ["electricity", "water bill", "internet", "wifi", "rent", "gas bill", "phone", "mobile", "utility", "trash"],
+  "Shopping": ["clothes", "shoes", "shirt", "pants", "amazon", "mall", "electronics", "jacket", "dress", "bag"],
+  "Entertainment": ["movie", "cinema", "netflix", "concert", "game", "party", "fun", "spotify", "tickets"],
+  "Medical": ["doctor", "medicine", "pharmacy", "clinic", "hospital", "pills", "gym", "dentist", "therapy"]
 }
