@@ -1,0 +1,41 @@
+{
+  "Groceries": [
+    "manzanas", "plátanos", "naranjas", "uvas", "fresas", "sandía", "melón", "mango", "papaya", "aguacate", "tomates", "papas", "cebollas", "ajo", "zanahorias", "lechuga", "espinacas", "chiles", "maíz", "arroz", "frijoles", "lentejas", "garbanzos", "harina", "tortillas", "pan", "leche", "queso", "yogur", "mantequilla", "huevos", "pollo", "carne", "res", "cerdo", "pescado", "mariscos", "camarones", "aceite", "vinagre", "azúcar", "sal", "especias", "canela", "pimienta", "dulces", "chocolates", "galletas", "helado", "refrescos", "jugos", "cerveza", "vino", "licor", "detergente", "cloro", "suavizante", "servilletas", "papel higiénico", "pañales", "botanas", "oxxo", "mercadona", "carrefour", "chedraui", "soriana", "aurrera", "éxito", "jumbo", "lider", "eroski", "consum", "hipercor", "alkosto", "coto", "vea", "dia", "walmart", "costco", "d1", "wong"
+  ],
+  "Shopping": [
+    "ropa", "camisa", "playera", "blusa", "pantalón", "jeans", "falda", "vestido", "chamarra", "abrigo", "suéter", "sudadera", "zapatos", "tenis", "botas", "sandalias", "calcetines", "ropa interior", "lencería", "pijama", "traje", "corbata", "cinturón", "bolso", "mochila", "cartera", "maleta", "gafas", "reloj", "joyas", "anillo", "pulsera", "sombrero", "gorra", "celular", "audífonos", "cargador", "computadora", "laptop", "tableta", "televisor", "consola", "accesorios", "juguetes", "mercado libre", "amazon", "aliexpress", "shein", "temu", "falabella", "ripley", "paris", "liverpool", "coppel", "elektra", "zara", "bershka", "mango", "nike", "adidas", "puma"
+  ],
+  "Dining": [
+    "restaurante", "café", "bar", "cantina", "fonda", "taquería", "parrilla", "asador", "panadería", "comida rápida", "domicilio", "rappi", "pedidosya", "glovo", "ubereats", "mcdonalds", "burger king", "kfc", "dominos", "pizza hut", "subway", "starbucks", "desayuno", "almuerzo", "comida", "cena", "tapas", "churros", "arepas", "empanadas", "tacos", "tamales", "pupusas", "ceviche", "asado", "paella", "sopa", "ensalada", "sándwich", "hamburguesa", "pizza", "postre", "flan", "té", "mate", "horchata", "jamaica", "cóctel", "trago", "propina", "menú"
+  ],
+  "Auto": [
+    "auto", "coche", "gasolina", "diésel", "mecánico", "taller", "llantas", "frenos", "batería", "lubricante", "anticongelante", "limpiaparabrisas", "verificación", "multa", "infracción", "seguro auto", "placa", "licencia", "peaje", "casetas", "autopista", "estacionamiento", "parquímetro", "grúa", "corralón", "lavado", "uber", "cabify", "didi", "taxi", "remís", "gasolinera", "pemex", "ypf", "petrobras", "ancap", "terpel", "primax", "repsol", "autozone"
+  ],
+  "Home": [
+    "casa", "renta", "alquiler", "hipoteca", "predial", "ibi", "condominio", "expensas", "mantenimiento", "muebles", "silla", "mesa", "cama", "colchón", "sofá", "ropero", "escritorio", "estante", "lámpara", "cortinas", "alfombra", "espejo", "maceta", "electrodomésticos", "refrigerador", "estufa", "horno", "microondas", "lavadora", "secadora", "licuadora", "plancha", "cafetera", "ventilador", "calentador", "plomero", "electricista", "pintor", "albañil", "cerrajero", "carpintero", "jardinero", "fumigación", "limpieza", "ferretería", "sodimac", "easy", "promart", "epa", "comex", "construrama", "ikea", "home depot", "leroy merlin"
+  ],
+  "Utilities": [
+    "luz", "electricidad", "agua", "gas", "butano", "bombona", "calefacción", "internet", "teléfono", "móvil", "wifi", "televisión", "basura", "alcantarillado", "recibo", "factura", "medidor", "recarga", "datos", "roaming", "prepago", "pospago", "movistar", "claro", "telcel", "entel", "personal", "tigo", "vodafone", "orange", "jazztel", "totalplay", "izzi", "megacable", "telmex", "cfe", "iberdrola", "endesa", "naturgy"
+  ],
+  "Medical": [
+    "médico", "hospital", "clínica", "urgencias", "emergencia", "farmacia", "medicinas", "medicamento", "receta", "pastillas", "análisis", "estudios", "radiografía", "vacuna", "dentista", "ortodoncia", "óptico", "lentes", "terapia", "psicólogo", "psiquiatra", "especialista", "cirujano", "cirugía", "consulta", "copago", "seguro médico", "imss", "issste", "sanitas", "adeslas", "parto", "ambulancia", "enfermera", "curitas", "vendas", "termómetro", "paracetamol", "ibuprofeno", "aspirina", "omeprazol", "antibiótico", "guadalajara", "benavides", "inkafarma", "mifarma", "cruz verde", "similares", "farmacity"
+  ],
+  "Income": [
+    "sueldo", "salario", "nómina", "quincena", "aguinaldo", "bono", "comisión", "horas extra", "vacaciones", "utilidades", "vales", "pensión", "jubilación", "retiro", "afore", "desempleo", "liquidación", "finiquito", "beca", "honorarios", "independiente", "ventas", "ingresos", "intereses", "dividendos", "inversión", "ahorro", "banco", "depósito", "transferencia", "efectivo", "reembolso", "devolución", "viáticos", "paypal", "bizum", "nubank", "mercadopago", "yape", "plin", "mach", "ualá", "stp"
+  ],
+  "Education": [
+    "escuela", "colegio", "universidad", "instituto", "preescolar", "primaria", "secundaria", "bachillerato", "preparatoria", "maestría", "doctorado", "curso", "clase", "tarea", "examen", "calificación", "título", "diploma", "certificado", "matrícula", "colegiatura", "mensualidad", "libros", "cuadernos", "lápiz", "bolígrafo", "papelería", "libreta", "pluma", "colores", "tijeras", "pegamento", "regla", "calculadora", "biblioteca", "platzi", "domestika", "udemy", "coursera", "duolingo", "unam", "uba", "complutense", "itesm", "tutorías"
+  ],
+  "Entertainment": [
+    "cine", "cinépolis", "cinesa", "cinemex", "película", "serie", "streaming", "netflix", "disneyplus", "hbomax", "prime video", "vix", "youtube", "spotify", "música", "concierto", "festival", "teatro", "obra", "baile", "discoteca", "antro", "karaoke", "juego", "casino", "apuesta", "lotería", "bingo", "fútbol", "estadio", "deporte", "museo", "exposición", "parque", "zoológico", "acuario", "entrada", "boleto", "ticketmaster", "gimnasio", "yoga", "pilates", "consola", "videojuegos", "playstation", "xbox", "nintendo", "twitch"
+  ],
+  "Travel": [
+    "viaje", "vuelo", "avión", "aerolínea", "aeropuerto", "equipaje", "visa", "pasaporte", "migración", "hoteles", "hostal", "resort", "camping", "vacaciones", "playa", "crucero", "ferry", "tren", "renfe", "ave", "cercanías", "metro", "autobús", "colectivo", "subte", "micro", "pesero", "sube", "excursión", "tour", "guía", "recuerdos", "agencia", "turismo", "despegar", "airbnb", "booking", "expedia", "kayak", "aeroméxico", "volaris", "viva aerobus", "latam", "avianca", "copa", "iberia", "vueling", "ryanair"
+  ],
+  "Care": [
+    "cuidado", "higiene", "baño", "ducha", "champú", "acondicionador", "jabón", "crema", "loción", "perfume", "desodorante", "cepillo", "pasta dental", "enjuague", "hilo dental", "rasuradora", "afeitadora", "maquillaje", "cosméticos", "labial", "base", "máscara", "esmalte", "uñas", "salón", "peluquería", "barbería", "corte", "tinte", "peinado", "manicura", "pedicura", "depilación", "cejas", "pestañas", "masaje", "spa", "facial", "exfoliante", "protector solar", "natura", "yanbal", "belcorp", "ésika", "cyzone", "lbel", "belleza", "sephora"
+  ],
+  "Gifts": [
+    "regalo", "obsequio", "cumpleaños", "aniversario", "boda", "bautizo", "comunión", "quinceañera", "navidad", "reyes", "san valentín", "donación", "caridad", "fundación", "ong", "voluntariado", "limosna", "diezmo", "sorpresa", "postal", "envoltura", "moño", "empaque", "flores", "florería", "ramo", "rosas", "cruz roja", "teletón", "unicef", "cáritas", "piedad", "piñata", "tarjetas"
+  ]
+}
